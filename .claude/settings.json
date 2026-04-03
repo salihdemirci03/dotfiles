@@ -20,6 +20,10 @@
           {
             "type": "command",
             "command": "node C:/Users/salih/.claude/hooks/prompt-enricher.js"
+          },
+          {
+            "type": "command",
+            "command": "node C:/Users/salih/.claude/hooks/session-save.js"
           }
         ]
       }

@@ -1,5 +1,11 @@
 # Salih Demirci — Global Claude Code Config
 
+## SESSION START — Her session açılışında yap
+1. `ls -t ~/claude-memory-repo/*.md 2>/dev/null | head -3` komutunu çalıştır
+2. En güncel .md dosyasını oku (Read tool ile)
+3. "Son session'dan hatırladıklarım: ..." diyerek özet ver
+4. Sonra kullanıcının isteğine geç
+
 ## Identity
 - Name: Salih Demirci
 - GitHub: salihdemirci03
